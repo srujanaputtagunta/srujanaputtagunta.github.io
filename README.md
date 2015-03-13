@@ -1,2 +1,1 @@
-# srujanaputtagunta.github.io
-Source code to srujanaputtagunta.github.io
+Source code for http://srujanaputtagunta.github.io
