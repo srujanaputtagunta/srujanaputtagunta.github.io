@@ -14,6 +14,7 @@ In a series of posts starting from this one, I am going to talk about some well-
 These days, internet connection has become as popular as having a car or a bicycle. However, this 'internet connection' is all it takes to exploit a well-known vulnerability. The task of securing a computer itself can be a daunting one, imagine the task of securing a network!! In order to simplify this task, IT administrators need a starting point and this starting point should be understanding the OSI model. The OSI model breaks the network into easily understood components that can be secured individually.<br/>
 
 <br/>This is a cool video that gives you a great explanation of each layer of the OSI model.<br/>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-6Uoku-M6oY" frameborder="0" allowfullscreen></iframe>
 
 
@@ -42,11 +43,10 @@ A Keylogger is a malware which could be a software program or a hardware device 
 ### Lock Picking
 If you are wondering how secure your lock is, let me tell you the answer - any lock can be opened. It is only a matter of how long it takes, how much skill and what tools are used - just like hacking. Lock picking is also a hacker skill. Check out DefCon, which is a yearly hacker conference that has presentations and seminars devoted to lock picking. To see how quickly some individuals can bypass a lock, check out this video from Defcon 20 <br/>
 
-<br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Um3l47yyCEQ" frameborder="0" allowfullscreen></iframe>
-<br/>
 
-	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Um3l47yyCEQ" frameborder="0" allowfullscreen></iframe>
+
+
 <br/>In addition to getting a better lock (higher quality, more pins, higher security design), these are a couple of suggestions to slow down the attacker<br/>
 -Install a deadbolt in addition to your primary lock. Deadbolts are more resistant to lock picking than traditional door locks and a second lock requires a would-be thief to work twice as hard.<br/>
 - Install the lock upside down, so the jaggy side of the key goes in facing down instead of up.  They are harder to pick upside down, and my experience is the same.<br/>
