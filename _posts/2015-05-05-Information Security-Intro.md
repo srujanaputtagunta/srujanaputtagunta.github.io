@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Information Security - why is it important and what we need to know
+title: Information Security - Why is it Important and What We Need to Know
 comments: true
 image:
   feature: sample-image-5.jpg
