@@ -21,7 +21,7 @@ Usually, most of us don't leave our cars and houses unlocked. We don't leave val
 
 <br/>Sometimes, it is more about stopping others from gaining access. We wouldn't let a stranger follow in through the front door of our house, so why do we do this in secure areas of our workplace? This is called Tailgating. It might be embarrassing to say no or ask for an ID, but we never know what could happen! An imposter could go in posing as an IT person who came to repair a computer and instead install a small piece of software onto the system which allows hackers to see what was being typed on the computer and use this information to gather confidential information about the company. <br/>
 
-br/>![IDE setup]({{ https://srujanaputtagunta.github.io/ }}/assets/images/post4/tailgating.jpg)<br/>
+<br/>![IDE setup]({{ https://srujanaputtagunta.github.io/ }}/assets/images/post4/tailgating.jpg)<br/>
 
 <br/>Credit and debit cards are prime targets for criminals. Some clone them while others watch over your back while you type them in an ATM before stealing them. This is called Shoulder Surfing. Organized gangs and criminals are stealing personal information at such a rate that the cost of a credit card number or bank account details is about the same as a cup of coffee. Criminals are always looking for new ways to get our information and use it for profit.<br/>
 
