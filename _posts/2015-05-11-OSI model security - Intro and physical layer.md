@@ -14,7 +14,7 @@ In a series of posts starting from this one, I am going to talk about some well-
 These days, internet connection has become as popular as having a car or a bicycle. However, this 'internet connection' is all it takes to exploit a well-known vulnerability. The task of securing a computer itself can be a daunting one, imagine the task of securing a network!! In order to simplify this task, IT administrators need a starting point and this starting point should be understanding the OSI model. The OSI model breaks the network into easily understood components that can be secured individually.<br/>
 
 <br/>This is a cool video that gives you a great explanation of each layer of the OSI model.<br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-6Uoku-M6oY" frameborder="0" allowfullscreen></iframe><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-6Uoku-M6oY" frameborder="0" allowfullscreen></iframe>
 
 
 ## Physical layer Security
