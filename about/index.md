@@ -7,7 +7,7 @@ image:
   feature: about-me.jpg
   
 ---
-<p style='text-align: justify;'>Hi! I'm Srujana and I am an aspiring <b>Ethical Hacker</b> and Security Professional. I am also an avid reader, adventurer and a travel enthusiast. I am really passionate about Computer Security and by writing this blog, I intend to share my knowledge with you as I progress towards my goal of becoming an Ethical Hacker.</p>
+<p style='text-align: justify;'>Hi! I'm Srujana and I am an aspiring Information Security Professional. I am also an avid reader, adventurer and a travel enthusiast. I am really passionate about Security and by writing this blog, I intend to share my knowledge with you as I progress towards my goal.</p>
 
 
 <br>
